@@ -1,2 +1,4 @@
+include ':test'
+include ':testing'
 include ':app'
 rootProject.name = "Hello World"
